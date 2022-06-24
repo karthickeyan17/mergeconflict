@@ -1,1 +1,3 @@
 1st line theriyala
+practicing git merge concept
+
